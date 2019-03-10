@@ -1,6 +1,6 @@
 # ETH-computer-vision
 
-Small weekly projects realized for the Computer Vision class at ETH Zürich, given by Prof. Luc Van Gool, Prof. Marc Pollefeys, and Prof. Vittorio Ferrari.
+Small weekly projects realized for the Computer Vision class at ETH Zürich, given by Prof. Luc Van Gool, Prof. Marc Pollefeys, and Prof. Vittorio Ferrari (Sept 2018 - Dec 2018).
 
 Project 1: Geometry & Camera Models
 
